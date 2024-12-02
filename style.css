@@ -8,4 +8,5 @@ header{
     border-bottom: solid 2px black;/*borda inferior solida de px preta*/
     padding: 20px;/*espaçamento interno*/
     font-size: 32px;/*tamanho da fonte*/
+    color: hsl(160, 100, 70);/*cor da fonte*/
 }
