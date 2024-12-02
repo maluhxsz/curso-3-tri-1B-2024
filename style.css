@@ -5,7 +5,7 @@ font-size: 24px;/*tamanho da fonte*/
 } 
 header{
  
-    border-bottom: solid 2px black;/*borda solida de px preta*/
+    border-bottom: solid 2px black;/*borda inferior solida de px preta*/
     padding: 20px;/*espaçamento interno*/
     font-size: 32px;/*tamanho da fonte*/
 }
